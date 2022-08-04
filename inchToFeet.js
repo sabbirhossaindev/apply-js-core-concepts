@@ -25,3 +25,4 @@ const nanafeet = inchToFeet(nanaInch);
 console.log(nanafeet);
 
 // hW mail to km convert 3
+// hW gram to kg convert 3
