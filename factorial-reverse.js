@@ -6,5 +6,6 @@ function factorial(number) {
     }
     return result;
 }
+const number = 6;
 const fact = factorial(6);
-console.log('Factorial of 6:', fact);
+console.log('Factorial of 6:', number, fact);
