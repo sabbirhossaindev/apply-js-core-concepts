@@ -13,5 +13,5 @@ function factorial(number) {
     }
     return result;
 }
-const result = factorial(7);
-console.log(result);
+const result = factorial(12);
+console.log('fact of 12:',result);
